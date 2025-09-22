@@ -1,4 +1,4 @@
-# Task 1: Basic Mathematical Operations
+# Basic Mathematical Operations
 
 # Take two numbers as input using input() and convert them to float for arithmetic operations
 num1 = float(input("Enter the first number: "))
