@@ -1,29 +1,45 @@
-# Assignment 1 - Module 2: Basic Python Concepts
+# Python Programming Fundamentals
 
-This repository contains solutions for Assignment 1 from Module 2, which focuses on basic Python programming concepts such as input/output, arithmetic operations, and string manipulation.
+This repository includes beginner Python scripts focusing on basic concepts and control structures.
 
-## Task 1: Basic Mathematical Operations
-The Task 1 program prompts the user to enter two numbers. It then performs addition, subtraction, multiplication, and division on these numbers and displays each result. This task demonstrates the use of variables, arithmetic operators, and basic input/output functions in Python.
+## Module 2: Basic Concepts
 
-## Task 2: Personalized Greeting
-The Task 2 program asks the user to input their first and last names, concatenates these to form a full name, and prints a personalized greeting message. This task is a practical example of string operations and user interaction through input and output.
+- **Mathematical Operations:**  
+  Prompts the user for two numbers, calculates and displays their sum, difference, product, and division. Demonstrates arithmetic operators and simple input/output.
 
-## How to Run the Programs
-1. Ensure Python is installed on your system.
-2. Open a terminal or command prompt.
-3. Navigate to the folder containing the Python scripts.
-4. Run the programs individually by executing the following commands:
-   - For Task 1:
-     ```
-     python task1_basic_math.py
-     ```
-   - For Task 2:
-     ```
-     python task2_greeting.py
-     ```
-5. Follow the prompts displayed on the screen.
+- **Personalized Greeting:**  
+  Takes first and last name input, combines them, and prints a greeting message to the user.
 
-## Notes
-- These programs use basic Python concepts covered in the course.
-- Error handling is minimal to maintain focus on fundamental concepts.
-- The scripts serve as an introduction to Python programming fundamentals.
+### How to Run These Programs
+
+1. Make sure Python is installed.
+2. Open terminal/command prompt.
+3. Navigate to the script directory.
+4. Run each program using:
+    ```
+    python task1_basic_math.py
+    python task2_greeting.py
+    ```
+
+## Module 3: Control Structures
+
+- **Even/Odd Number Checker:**  
+  Asks for an integer input and uses an if-else statement to check if the number is even or odd.
+
+- **Sum of Numbers (1 to 50):**  
+  Calculates and prints the sum of all integers from 1 to 50 using a for loop.
+
+### How to Run These Programs
+
+1. Confirm Python is installed.
+2. Open terminal/command prompt and go to the project directory.
+3. Run the scripts using:
+    ```
+    python check_even_odd.py
+    python sum_1_to_50.py
+    ```
+
+---
+
+**Note:**  
+Each script is designed for simple, interactive learning and focuses on the basic principles of Python programming.
