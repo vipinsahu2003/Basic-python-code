@@ -2,7 +2,7 @@
 
 This repository includes beginner Python scripts focusing on basic concepts, control structures, functions, modules, file handling, and data structures.
 
-## Module 2: Basic Concepts
+## Basic Concepts
 
 - **Mathematical Operations:**  
   Prompts the user for two numbers, calculates and displays their sum, difference, product, and division. Demonstrates arithmetic operators and simple input/output.
@@ -21,7 +21,7 @@ This repository includes beginner Python scripts focusing on basic concepts, con
     python task2_greeting.py
     ```
 
-## Module 3: Control Structures
+## Control Structures
 
 - **Even/Odd Number Checker:**  
   Asks for an integer input and uses an if-else statement to check if the number is even or odd.
@@ -39,7 +39,7 @@ This repository includes beginner Python scripts focusing on basic concepts, con
     python sum_1_to_50.py
     ```
 
-## Module 4: Functions & Modules
+## Functions & Modules
 
 - **Factorial Calculator:**  
   Defines a function to calculate the factorial of a number using recursion or loops.
@@ -58,7 +58,7 @@ This repository includes beginner Python scripts focusing on basic concepts, con
     python math_module_calculations.py
     ```
 
-## Module 5: Files, Exceptions, and Errors
+## Files, Exceptions, and Errors
 
 - **Read File with Error Handling:**  
   Opens and reads a file named `sample.txt`. Prints its contents line by line and handles errors if the file does not exist.
@@ -76,7 +76,7 @@ This repository includes beginner Python scripts focusing on basic concepts, con
     python write_append_file.py
     ```
 
-## Module 6: Data Structures and Strings
+## Data Structures and Strings
 
 - **Student Marks Lookup:**  
   Implements a dictionary where student names are keys and their marks are values. The user can input a student's name to retrieve marks, with proper handling for missing entries.
