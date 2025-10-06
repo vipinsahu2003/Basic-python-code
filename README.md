@@ -1,6 +1,6 @@
 # Python Programming Fundamentals
 
-This repository includes beginner Python scripts focusing on basic concepts, control structures, functions, modules, and file handling.
+This repository includes beginner Python scripts focusing on basic concepts, control structures, functions, modules, file handling, and data structures.
 
 ## Module 2: Basic Concepts
 
@@ -76,7 +76,25 @@ This repository includes beginner Python scripts focusing on basic concepts, con
     python write_append_file.py
     ```
 
+## Module 6: Data Structures and Strings
+
+- **Student Marks Lookup:**  
+  Implements a dictionary where student names are keys and their marks are values. The user can input a student's name to retrieve marks, with proper handling for missing entries.
+
+- **List Slicing Demonstration:**  
+  Creates a list of numbers from 1 to 10, extracts the first five elements, reverses them, and displays both the extracted and reversed lists.
+
+### How to Run These Programs
+
+1. Make sure Python is installed.
+2. Open terminal/command prompt and go to the project folder.
+3. Run the scripts using:
+    ```
+    python student_marks_dictionary.py
+    python list_slicing_demo.py
+    ```
+
 ---
 
 **Note:**  
-These scripts are designed for interactive, beginner-friendly learning of fundamental Python programming concepts.
+These scripts are designed for interactive, beginner-friendly learning of essential Python programming concepts.
